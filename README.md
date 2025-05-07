@@ -1,4 +1,5 @@
-JobConnect Platform
+JobConnect
+
 JobConnect Platform is a web-based solution designed to connect job seekers with employers in a streamlined and efficient manner. The platform allows job seekers to search for job openings tailored to their preferences and enables employers to post job openings with detailed information. Built using Spring Boot and MongoDB, this platform focuses on enhancing the job search and hiring experience.
 
 Features
